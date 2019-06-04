@@ -1,0 +1,11 @@
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/bin/Debug/netcoreapp2.1/BasicThirteen.deps.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/bin/Debug/netcoreapp2.1/BasicThirteen.runtimeconfig.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/bin/Debug/netcoreapp2.1/BasicThirteen.runtimeconfig.dev.json
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/bin/Debug/netcoreapp2.1/BasicThirteen.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/bin/Debug/netcoreapp2.1/BasicThirteen.pdb
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/obj/Debug/netcoreapp2.1/BasicThirteen.csprojAssemblyReference.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/obj/Debug/netcoreapp2.1/BasicThirteen.csproj.CoreCompileInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/obj/Debug/netcoreapp2.1/BasicThirteen.AssemblyInfoInputs.cache
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/obj/Debug/netcoreapp2.1/BasicThirteen.AssemblyInfo.cs
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/obj/Debug/netcoreapp2.1/BasicThirteen.dll
+/Users/matthewbower/cs-project-workspace/coding-dojo/cs-lf-basic_thirteen/BasicThirteen/obj/Debug/netcoreapp2.1/BasicThirteen.pdb
